@@ -1,8 +1,20 @@
+Metadata-Version: 2.1
+Name: calculadoralohmz
+Version: 0.0.2
+Summary: Calculadora bem básica
+Home-page: https://github.com/simonssilva/projeto-dio-calculadoralohmz
+Author: simon
+Author-email: simonssilva08@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # calculadora
 
 Description. 
 The package calculadora is used to:
-	- Calculadora bem básica para calculo de dois valores.
+	- Calculadora bem bÃ¡sica para calculo de dois valores.
 
 ## Installation
 
@@ -33,3 +45,4 @@ Simon
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
